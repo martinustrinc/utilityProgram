@@ -1,6 +1,6 @@
-# tokopedia-utility-program
+# utility-program-app
 
-Tokopedia Utility is a utility tool to extracts top 100 product data from Tokopedia with category Mobile Phones/Handphone and store it as CSV file.
+A Utility Program App is a utility tool to extracts top 100 product data from Tokopedia with category Mobile Phones/Handphone and store it as CSV file.
 
 It is based on Selenium.
 
